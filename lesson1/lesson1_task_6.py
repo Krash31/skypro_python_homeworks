@@ -38,5 +38,6 @@ def namber0():
     print("0", end="")
 
 
-namber8(), namber8(), namber0(), namber0(), namber5(), namber5(), 
-namber5(), namber3(), namber5(), namber3(), namber5()
+namber8(), namber8(), namber0(), namber0(), 
+namber5(), namber5(), namber5(), namber3(), 
+namber5(), namber3(), namber5()

@@ -1,7 +1,6 @@
 def namber(namber1):
-    print(namber1, end="")
-
-    
+    print(namber1, end="") 
+      
 namber(8)
 namber(8)
 namber(0)

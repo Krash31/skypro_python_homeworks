@@ -1,2 +1,2 @@
-user_name=input("как вас зовут?")
-print("привет, " + user_name)
+userName=input("как вас зовут?")
+print("привет, " + userName)
