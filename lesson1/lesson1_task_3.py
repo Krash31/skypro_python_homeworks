@@ -1,2 +1,2 @@
-userName=input("как вас зовут?")
+userName = input("как вас зовут?")
 print("привет, " + userName)
